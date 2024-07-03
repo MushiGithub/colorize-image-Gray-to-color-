@@ -1,0 +1,1 @@
+run: G:\Django\Colored Image>python color.py -image images/triger.jpg
